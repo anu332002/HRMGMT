@@ -1,0 +1,132 @@
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.displayLabel {
+    margin-bottom: 0px;
+	width: 175px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.displayField {
+    padding-top: 5px;
+    margin-top: 10px;
+}
+
+h2{
+    color: #D05A00;
+}
+
+.createEdit{
+    text-align: center;
+    position: relative;
+    margin-top: 100px;
+}
+
+.dropdown{
+    float: left;
+    clear: left;
+    margin-left: 5px;
+}
+
+.pagination{
+    margin-right: 30px;
+}
+
+.btnSave{
+    display: inline-block;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    background-color: green;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btnSave:hover{
+    color: green;
+    background-color: transparent;
+    border: 1px solid green;
+    text-decoration: none;
+}
+
+.btnCancel{
+    display: inline-block;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    background-color: red;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btnCancel:hover{
+    color: red;
+    background-color: transparent;
+    border: 1px solid red;
+    text-decoration: none;
+}
+
+.btn-secondary{
+    color: #fff;
+    background-color: #545b62;
+    border-color: #4e555b;
+}
+
+.btn-info{
+    color: #46b8da;
+    background-color: white;
+    border-color: 0px solid;
+}
+.btn-info:hover{
+    color: white;
+    background-color: #46b8da;
+    border-color: 0px solid;
+}
+
+.btn-success{
+    color: green;
+    background-color: white;
+    border-color: 0px solid;
+}
+.btn-success:hover{
+    color: white;
+    background-color: green;
+    border-color: 0px solid;
+}
+
+.btn-warning{
+    color: #c69500;
+    background-color: white;
+    border-color: 0px solid;
+}
+.btn-warning:hover{
+    color: white;
+    background-color: #c69500;
+    border-color: 0px solid;
+}
+
+.btn-danger{
+    color: red;
+    background-color: white;
+    border-color: 0px solid;
+}
+.btn-danger:hover{
+    color: white;
+    background-color: red;
+    border-color: 0px solid;
+}
